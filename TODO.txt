@@ -1,0 +1,5 @@
+* complete PyPI deployment
+    * as per http://peterdowns.com/posts/first-time-with-pypi.html
+* use Function Annotations instead of a models_views.json file
+    * https://www.python.org/dev/peps/pep-3107/
+* implement a test module to ensure that all endpoints have been created correctly
